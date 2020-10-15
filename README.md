@@ -30,10 +30,9 @@ The are 5 options:
 
 2.View the menu to other currencies(CAD,HKD,PHP,USD):                     localhost:8080/api/menu/{currency}
          
-         Create orders via Postman or Swagger interface.
-
-
 3.Create an order:                                                        localhost:8080/api/orders
+        
+        --------Create orders via Postman or Swagger interface.-----------
 
 4.View all the orders (EURO):                                             localhost:8080/api/orders/admin
 
